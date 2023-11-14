@@ -15,8 +15,8 @@
 # 課程筆記區 
 # 作業連結區 
 ## 作業一
-[412842141_HW1.ipynb](https://github.com/apr211/LATIA112-1/blob/main/HW1/劉芯妤_HW1.ipynb)
+[41284214I_HW1.ipynb](https://github.com/apr211/LATIA112-1/blob/main/HW1/劉芯妤_HW1.ipynb)
 ## 作業二
-[412842141_HW2.py](https://github.com/apr211/LATIA112-1/blob/main/HW2/劉芯妤_HW2.py)
+[41284214I_HW2.py](https://github.com/apr211/LATIA112-1/blob/main/HW2/劉芯妤_HW2.py)
 ## 作業三
 # 專題連結區
