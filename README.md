@@ -27,4 +27,9 @@ Azure 提供的主要服務：
 語音服務：包括語音轉文本、文本轉語音以及語音翻譯。
 QnA Maker：能夠從半結構化的內容（如常見問題集、產品手冊等）中創建問答式的聊天機器人。
 https://docs.google.com/document/d/10Z_OBs4vMBHgVfcVY7wUuGoJOLzv_vFT6hq8EwTESLE/edit?usp=sharing
+#Part2.
+
+
+
+## 作業四
 # 專題連結區
