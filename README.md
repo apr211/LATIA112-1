@@ -28,7 +28,7 @@ Azure 提供的主要服務：
 QnA Maker：能夠從半結構化的內容（如常見問題集、產品手冊等）中創建問答式的聊天機器人。
 https://docs.google.com/document/d/10Z_OBs4vMBHgVfcVY7wUuGoJOLzv_vFT6hq8EwTESLE/edit?usp=sharing
 #Part2.
-[41284214I_HW3.ipynb](https://github.com/apr211/LATIA112-1/tree/affd5326a2e8edd546b46e77a68ec166b6ed8419/HW3)
+[41284214I_HW3.ipynb](https://github.com/apr211/LATIA112-1/blob/main/HW3)
 
 
 
